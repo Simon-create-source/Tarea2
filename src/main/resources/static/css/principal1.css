@@ -1,0 +1,50 @@
+
+#menu {
+    position: absolute;
+    top: 8%;
+    left: 0;
+    height: 4%;
+    width: 100%;
+    background-color: #ff7dd8;
+    color: black;
+}
+#menu a:visited {
+    color: navy;
+}
+#menu a:hover {
+    background-color: green;
+    color: white;
+}
+#barraLateral {
+    position: absolute;
+    top: 12%;
+    left: 0;
+    height: 81%;
+    width: 20%;
+    background-color: #fe9393;
+    color: black;
+}
+#contenido {
+    position: absolute;
+    top: 12%;
+    left: 20%;
+    height: 81%;
+    width: 80%;
+    background-color: #f86f6f;
+    color: black;
+    overflow: auto;
+}
+#piePagina {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 7%;
+    width: 100%;
+    background-color: #ffffff;
+    color: black;
+    text-align: center;
+}
+
+
+
+

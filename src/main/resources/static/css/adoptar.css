@@ -1,0 +1,53 @@
+body{
+    background-color: #006666;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+#mk{
+    display: block;
+    width: 200px;
+    height: 40px;
+    background-color: rgba(0,0,0,0);
+    color: white;
+    font-family: 'Raleway';
+    font-size: 18px;
+    font-weight: 700;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+#ml{
+    display: block;
+    width: 200px;
+    height: 40px;
+    background-color: rgba(0,0,0,0);
+    color: white;
+    font-family: 'Raleway';
+    font-size: 18px;
+    font-weight: 700;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+#mj{
+    display: block;
+    width: 200px;
+    height: 40px;
+    background-color: rgba(0,0,0,0);
+    color: white;
+    font-family: 'Raleway';
+    font-size: 18px;
+    font-weight: 700;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+#mh{
+    display: block;
+    width: 200px;
+    height: 40px;
+    background-color: rgba(0,0,0,0);
+    color: white;
+    font-family: 'Raleway';
+    font-size: 18px;
+    font-weight: 700;
+    border: 1px solid white;
+    border-radius: 8px;
+}
